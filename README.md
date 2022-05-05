@@ -1,6 +1,21 @@
 ### Hi there 👋
 
-## Repository
+## Repositories
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project</b></td>
+      <td><b>Detail</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>https://github.com/b1017034/scoop-bucket</td>
+      <td>自分用の<a href=https://github.com/ScoopInstaller/Scoop>Scoop</a>リポジトリ</td>
+    </tr>
+  </tbody>
+
 
 
 <!--
