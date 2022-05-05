@@ -44,7 +44,7 @@
     <tr>
       <td><a href=https://github.com/b1017034/kaohamehame>kaohamehame</a></td>
       <td>ハッカソンの時に顔はめパネルの写真から顔をはめる箇所を透過させる試行錯誤</td>
-      <td></td>
+      <td>Python</td>
     </tr>
   </tbody>
 
