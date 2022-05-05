@@ -11,8 +11,12 @@
   </thead>
   <tbody>
     <tr>
-      <td>https://github.com/b1017034/scoop-bucket</td>
+      <td><a href=https://github.com/b1017034/scoop-bucket>scoop-bucket</a></td>
       <td>自分用の<a href=https://github.com/ScoopInstaller/Scoop>Scoop</a>リポジトリ</td>
+    </tr>
+    <tr>
+      <td><a href=https://github.com/b1017034/FCOS-k8s-Ignitions>FCOS-k8s-Ignitions</a></td>
+      <td>Fedora CoreOSでkubernetes環境を作るためのIgnitionファイル</td>
     </tr>
   </tbody>
 
