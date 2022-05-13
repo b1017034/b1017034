@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td><a href=https://github.com/b1017034/disgaea_etna_counter>disgaea_etna_counter</a></td>
-      <td>魔界戦記ディスガイアRPGのエトナの避暑地に預けたコモン装備が39Lv(アイテム界29階)になるまでをカウント</td>
+      <td>魔界戦記ディスガイアRPGのエトナの避暑地に預けたコモン装備が39Lv(アイテム界29階)になるまでをカウントするデスクトップアプリ</td>
       <td>Python</td>
     </tr>
     <tr>
