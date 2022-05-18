@@ -46,6 +46,11 @@
       <td>ハッカソンの時に顔はめパネルの写真から顔をはめる箇所を透過させる試行錯誤</td>
       <td>Python</td>
     </tr>
+    <tr>
+      <td><a href=https://github.com/b1017034/ngc-pytorch-pix2pixHD>ngc-pytorch-pix2pixHD</a></td>
+      <td>ngcコンテナ上でpix2pixHD環境作るリポジトリ</td>
+      <td>Makefile</td>
+    </tr>
   </tbody>
 
 
